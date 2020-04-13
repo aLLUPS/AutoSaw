@@ -1,0 +1,5 @@
+This folder contains:
+  * The JPEG image of the PCB
+  * The EAGLE .sch and .brd files of the PCB
+
+You can open the .sch and .brd files using Audodesk EAGLE software.
