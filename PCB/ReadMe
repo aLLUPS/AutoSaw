@@ -1,5 +1,3 @@
 This folder contains:
-  * The JPEG image of the PCB design and real world implementation
-  * The EAGLE .sch and .brd files of the PCB
-
-You can open the .sch and .brd files using Audodesk EAGLE software.
+  * RealWorldImplementation:- The JPEG images of real world implementation.
+  * PCB_Design :-The EAGLE project (The EAGLE .sch and .brd files of the PCB).
