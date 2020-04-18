@@ -1,0 +1,4 @@
+* This folder contains the png image of the block diagram of the machine. 
+* There are 04 input sensors(Limit switch, two IR sensors and Wheel Encoder/Photo-electric encoder)
+* There are 05 motors (Stepper motor, two DC gear motors, high RPM DC motor, servo motor) are the main outputs of the machine.
+* There is a 20*4 character LCD display and push buttons set as user interface.
