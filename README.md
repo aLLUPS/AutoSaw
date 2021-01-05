@@ -6,3 +6,4 @@ This repository contains the information about ATMEGA 32A micro-controller based
     2. Animation:- The animation about the operation of the machine.
     3. AtmelProject:- micro-C codes to program the whole machine.
     4. PCB:- The Printed circuit board design, the wiring of Electronic/Electric components with PCB.
+    ![](Animation/AutoSawGIF.gif)
