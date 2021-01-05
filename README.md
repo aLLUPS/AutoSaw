@@ -1,4 +1,6 @@
-# AutoSaw     ![](Animation/AutoSawGIF.gif)
+# AutoSaw
+![](Animation/AutoSawGIF.gif)
+
 This repository contains the information about ATMEGA 32A micro-controller based project - The Automated Abrasive Saw - 'AutoSaw'.
 * It is a machine which cuts long metal box bars into smaller pieces automatically, after the user enter the input length and number of pieces required.
 * This repository consists:
